@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andres.gmg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andresgmg) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%128C7E.svg?logo=whatsapp&logoColor=white)](https://wa.me/56991279911) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/CriptoAmerica) [![](https://visitcount.itsvg.in/api?id=andresgmg&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
@@ -30,10 +30,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=andresgmg&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=andresgmg&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 
 <!-- HAY QUE CONSEGUIR UNA URL QUE RETORNE MEMES RANDON EN IMG -->
-<!-- ### 😂 Random Dev Meme
+<!-- ## 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/> -->
