@@ -1,4 +1,4 @@
-# 🙎🏻‍♂️ Senior Software Engenieer at [@sendos-ai](https://sendos.ai/) 
+# 🙎🏻‍♂️ Senior Software Engenieer at [@zenta](https://zentagroup.com/) 
 
 - My son is [@facelad](https://www.facelad.com/) <3
 
