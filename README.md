@@ -1,8 +1,6 @@
-# 🙎🏻‍♂️ Senior Software Engenieer at [@zenta](https://zentagroup.com/) 
+# 🙎🏻‍♂️ Software Engenieer at [@zenta](https://zentagroup.com/) 
 
-- My son is [@facelad](https://www.facelad.com/) <3
-
-- Musician in my free time.
+- In my free time,  [@facelad](https://www.facelad.com/) <3
 
 # 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andres.gmg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andresgmg) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%128C7E.svg?logo=whatsapp&logoColor=white)](https://wa.me/56991279911)
