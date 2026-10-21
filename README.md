@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrés Márquez
 
-**Senior Full-Stack Developer & Electronics Engineer** · Python · TypeScript · Generative AI · Scalable architectures
+**Senior Software Developer & Electronics Engineer** · Python · TypeScript · Generative AI · Scalable architectures
 
 - 💼 Senior Software Engineer at [@Zenta-Group](https://zentagroup.com/)
 - 🚀 Co-Founder / CTO at [@Facelad](https://www.facelad.com/) in my free time
