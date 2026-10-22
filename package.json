@@ -1,0 +1,12 @@
+{
+  "name": "andresgmg-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "badges": "node scripts/generate-badges.mjs"
+  },
+  "devDependencies": {
+    "badge-maker": "^6.0.0",
+    "simple-icons": "^16.35.0"
+  }
+}
